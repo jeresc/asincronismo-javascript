@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeresc/asincronismo-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jeremias Soruco <jeremiastomassrc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeresc/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/jeresc/asincronismo-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
